@@ -12,3 +12,5 @@ A Web Crawler with distributed functionality.
         b. dump.txt holds links that are dubplicated.
   
         c. Error.txt holds broken links.
+       
+     ### More Features to be added soon.
