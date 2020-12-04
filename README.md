@@ -7,8 +7,8 @@ A Web Crawler with distributed functionality.
 2. Controller.py controls all the links that are being crawled.
 
 
-  a. log.txt holds all the links that are crawled.
+        a. log.txt holds all the links that are crawled.
   
-  b. dump.txt holds links that are dubplicated.
+        b. dump.txt holds links that are dubplicated.
   
-  c. Error.txt holds broken links.
+        c. Error.txt holds broken links.
