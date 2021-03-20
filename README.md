@@ -9,7 +9,7 @@ A Web Crawler with distributed functionality.
 
         a. log.txt holds all the links that are crawled.
   
-        b. dump.txt holds links that are dubplicated.
+        b. dump.txt holds links that are duplicated.
   
         c. Error.txt holds broken links.
        
